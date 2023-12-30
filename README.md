@@ -1,1 +1,3 @@
 # HuggingFaceProjects
+
+key=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
